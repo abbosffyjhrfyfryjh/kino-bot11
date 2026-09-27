@@ -1,0 +1,1 @@
+print("Kino bot ishga tushdi!")
